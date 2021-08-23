@@ -16,7 +16,10 @@ To use, simply add the desired sheets to the Project\Sheets directory and list t
 
 ## Dependencies
 
-PyXL requires Python Modules: xlrd, pandas, & numpy to run properly
+PyXL requires the Python libraries:
+1. xlrd
+2. pandas
+3. numpy
 
 ---
 
